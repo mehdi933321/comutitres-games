@@ -1,0 +1,19 @@
+h1
+{
+	color :red;
+}
+
+.toto
+{
+	font-size: 32px;
+}
+
+#id1
+{
+	color : blue; 
+	text-align : center;
+}
+#id2
+{
+	font-size: 64px;
+}

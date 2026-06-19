@@ -1,0 +1,1 @@
+alert("Cliquer ici pour me donner de l'argent")
